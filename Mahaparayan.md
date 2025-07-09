@@ -15,12 +15,6 @@
 <li>Developed Test cases to implement Features, Test Scenarios and steps.</li>
    </ul>
 </section>
-
- <section>
-   <ul>
- <p>Project Excel File : <a href= "[(https://github.com/Preethism/Mahaparayan-Excel/blob/main/Mahaparayan%20Mobile%20app%20Admin.xlsx)](https://github.com/Preethism/Mahaparayan-Excel/blob/main/Mahaparayan%20Mobile%20app%20Admin.xlsx)" Project Excel File View </a> </p>
- </ul>
- </section>
  </body>
  </html>
 

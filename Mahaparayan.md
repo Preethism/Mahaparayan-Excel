@@ -12,7 +12,7 @@
 <li>	Being the sole QA engineer, managing the complete software delivery life cycle, working alongside Product owners, from planning phase to the deployment phase. </li>
 <li>	Created various project specific valuable assets such as knowledge transfer documents, test plan, defect summery reports. </li>
 <li>	Hands on experience on all levels of testing from Integration, Regression, Smoke, Sanity, Functional testing, Integration Testing, System Testing to UAT. </li>
-<li>Developed Test cases to implement Features, Test Scenarios and steps.</li>
+<li>  Developed Test cases to implement Features, Test Scenarios and steps.</li>
    </ul>
 </section>
  </body>

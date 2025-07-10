@@ -3,8 +3,8 @@
     <h2>Mahaparayan-Excel Project Report.</h2>
 
     <section>
+     <ul>
     <h2>Mahaparayan App Description</h2>
-    <ul>
     <li>The Mahaparayan initiative isn't a standalone "app" in the traditional sense, but rather a 
     Global Parayan Network that leverages digital platforms—like WhatsApp and podcasting—to connect devotees 
     worldwide who read chapters of the Shri Sai Satcharitra collectively.</li> 

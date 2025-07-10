@@ -16,9 +16,7 @@
   <li>Regular blog posts like “Global MahaParayan Miracles” publish real-life stories from participants.</li>
   <li>Sai Baba Satcharitra apps that help read chapters and audio for Mahaparayan practice.</li>
   <li>The WhatsApp network plays a central role in scheduling and community engagement.</li>
-  
-  
-</ul>
+  </ul>
 </section>	
 
 <section>

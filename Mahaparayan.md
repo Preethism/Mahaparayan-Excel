@@ -1,13 +1,11 @@
 <html lang="en">
   <body>
     <h2>Mahaparayan-Excel Project Report.</h2>
-
+    
     <section>
-     <ul>
+    <ul>
     <h2>Mahaparayan App Description</h2>
-    <li>The Mahaparayan initiative isn't a standalone "app" in the traditional sense, but rather a 
-    Global Parayan Network that leverages digital platforms—like WhatsApp and podcasting—to connect devotees 
-    worldwide who read chapters of the Shri Sai Satcharitra collectively.</li> 
+    <li>The Mahaparayan initiative isn't a standalone "app" in the traditional sense, but rather a Global Parayan Network that leverages digital platforms—like WhatsApp and podcasting—to connect devotees worldwide who read chapters of the Shri Sai Satcharitra collectively.</li> 
   <li>A global devotional program where participants read 2 chapters of Shri Sai Satcharitra every Thursday.</li>
   <li>The community shares daily personal experiences and miracles attributed to the readings on their application.</li>
   <li>Readers often join WhatsApp groups to coordinate readings, reminders, and spiritual guidance.</li>
